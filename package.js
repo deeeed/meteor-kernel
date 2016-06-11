@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'dispatch:kernel',
-  version: '0.0.6',
+  name: 'deeeed:dispatch-kernel',
+  version: '0.0.6-fix',
   summary: 'Run tasks in animation frame directly and throttled',
   git: 'https://github.com/DispatchMe/meteor-kernel.git'
 });
@@ -30,7 +30,7 @@ Package.onTest(function (api) {
     'reactive-var',
     'tinytest',
     'underscore',
-    'dispatch:kernel'
+    'deeeed:dispatch-kernel'
   ], 'web');
 
   api.addFiles([

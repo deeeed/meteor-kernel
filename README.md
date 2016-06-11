@@ -1,3 +1,7 @@
+Disable changes on Meteor.* functions.
+- See https://github.com/DispatchMe/meteor-kernel/issues/5
+
+------------------
 kernel
 ======
 
